@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Privils
-- 👀 I’m interested in coding, cars and anime
-- 🌱 I recently finished my frontend developer studies and am now looking for a internship or part time although next year i will be starting with my backend developer studies
-- 💞️ I’m looking to collaborate on anything frontend related
+- 👀 I’m interested in coding,playing, soccer, cars and anime
+- 🌱 I recently finished my fullstack application studies at codecademy and last year  i completed my front-end studies at codecademy currently looking for internships or code buddies to help me improve mine and their skills and create amaizing interesting projects
+- 💞️ I’m looking to collaborate on anything frontend and fullstack related
 - 📫 How to reach me : email is privilledgeblack8@gmail.com
 
 <!---
