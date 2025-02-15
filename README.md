@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Privils
-- 👀 I’m interested in coding,playing, soccer, cars and anime
-- 🌱 I recently finished my fullstack and front-end studies at codecademy currently looking for internships or code buddies to help me improve mine and their skills and create amaizing interesting projects
+- 👀 I’m interested in coding,soccer, cars and anime
+- 🌱 Hi, my name is Priviledge M, and I am a 21-year-old developer based in Cape Town, South Africa. I am deeply passionate about web development, always striving to push my abilities and create beautiful, functional websites. Beyond coding, I have a variety of other interests, including art, music, exploring new experiences, and chess. I pour my heart and effort into everything I am passionate about, constantly working towards my goals—no matter how ambitious they may seem.
 - 💞️ I’m looking to collaborate on anything frontend and fullstack related
 - 📫 How to reach me : email is privilledgeblack8@gmail.com
-
-<!---
-Privils/Privils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
